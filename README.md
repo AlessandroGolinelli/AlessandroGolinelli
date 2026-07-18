@@ -1,3 +1,5 @@
+(Work in progress ⚠️ : I'll be publishing my projects here during 2026 summer, check for updates) 
+
 # Hi, I'm Alessandro Golinelli 👋
 
 🎓 **AI Master's candidate** @ UniMiB / UniMI / UniPV  
