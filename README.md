@@ -1,32 +1,30 @@
-(Work in progress ⚠️ : I'll be publishing my projects here during 2026 summer, check for updates) 
+<div align ='left'>
+
 
 # Hi, I'm Alessandro Golinelli 👋
 
-🎓 **AI Master's candidate** @ UniMiB / UniMI / UniPV  
-⚗️ **Physics graduate** with a strong mathematical foundation  
-🤖 Currently researching **Active Inference for rehabilitation exoskeletons** @ NEARlab (Polimi)  
-📍 Milano, Italia
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TUO-PROFILO)
+[![Email](https://img.shields.io/badge/-a.golinelli2@campus.unimib.it-D14836?style=flat&logo=gmail&logoColor=white)](mailto:a.golinelli2@campus.unimib.it) 
+[![GitHub](https://img.shields.io/badge/-Ligohtml-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ligohtml)
+![Location](https://img.shields.io/badge/📍-Milano,%20Italia-555?style=flat)
 
----
 
-## 🧠 About Me
-
-I'm an ML Engineer specializing in applied machine learning from LLM agents to deep learning for medical imaging.
-I love tackling complex problems at the intersection of physics, AI, and engineering.
-
-When I'm not training models, I play guitar in the indie-rock band **Flashbangerz** 🎸
-
----
+🎓 **AI4ST Master's candidate** @ UniMiB / UniMI / UniPV  
+⚗️ **Physics graduate** with a thesis on Habitable Zone and Exoplanets <br>
+🤖 Currently researching **Active Inference for rehabilitative exoskeletons** @ NEARlab (Polimi) <br>
+🎸 I'm also the guitarrist for **Flashbangerz** 
+<br> 
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
----
+<div/>
+
 
 ## 🚀 Projects
 
@@ -42,8 +40,7 @@ When I'm not training models, I play guitar in the indie-rock band **Flashbanger
 
 ## 📬 Contacts
 
-[![Email](https://img.shields.io/badge/-a.golinelli2@campus.unimib.it-D14836?style=flat&logo=gmail&logoColor=white)](mailto:a.golinelli2@campus.unimib.it)
-[![GitHub](https://img.shields.io/badge/-Ligohtml-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ligohtml)
+
 <!--
 **Ligohtml/Ligohtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
